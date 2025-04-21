@@ -1,9 +1,6 @@
--ultralytics==8.3.111
--streamlit==1.44.1
--opencv-python-headless==4.11.0.86
--numpy==2.1.1
--torch==2.6.0
--torchvision==0.21.0
-+streamlit==1.44.1
-+ultralytics==8.3.111
-+opencv-python-headless==4.11.0.86
+ultralytics==8.3.111
+streamlit==1.44.1
+opencv-python-headless==4.11.0.86
+numpy==1.24.3
+torch==2.6.0
+torchvision==0.21.0
