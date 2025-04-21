@@ -1,6 +1,6 @@
-ultralytics==8.3.111
+ultralytics==8.2.28  # Slightly older stable version
+opencv-python-headless==4.9.0.80  # Headless version for servers
 streamlit==1.44.1
-opencv-python==4.11.0.86
-numpy==2.1.1
-torch==2.6.0
-torchvision==0.21.0
+numpy==1.26.4  # Compatible version
+torch==2.2.2  # Stable PyTorch version
+torchvision==0.17.2
